@@ -81,7 +81,7 @@ export default function Features() {
 
       {/* Carrossel de Chapéus */}
       <div className="w-full max-w-3xl px-4 mb-8">
-        <p className="font-quicksand text-lg font-semibold text-gray-800 mb-2">
+        <p className="font-quicksand text-lg font-semibold text-gray-800 mb-2 ">
           Chapéus:
         </p>
         <div className="flex items-center space-x-4 overflow-x-auto">
@@ -105,7 +105,7 @@ export default function Features() {
 
       {/* Carrossel de Roupas */}
       <div className="w-full max-w-3xl px-4">
-        <p className="font-quicksand text-lg font-semibold text-gray-800 mb-2">
+        <p className="font-quicksand text-lg font-semibold text-gray-800 mb-2 ">
           Roupa:
         </p>
         <div className="flex items-center space-x-4 overflow-x-auto">
@@ -127,7 +127,7 @@ export default function Features() {
         </div>
       </div>
       <br></br>
-      <p>Podes personalizar o teu YU como quiseres</p>
+       
 
     </motion.section>
   );
