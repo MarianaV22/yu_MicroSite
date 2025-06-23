@@ -45,7 +45,7 @@ export default function CTA() {
         Junta-te à comunidade YU e conquista o teu equilíbrio digital já hoje!
       </p>
       <a
-        href="/download"
+        href="https://yu-mctw.vercel.app"
         className="
           inline-block
           px-6 sm:px-8 lg:px-10
@@ -60,8 +60,9 @@ export default function CTA() {
           transition
         "
       >
-        Descarrega App
+        Visita a YU
       </a>
+
     </motion.section>
   );
 }
